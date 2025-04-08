@@ -8,6 +8,6 @@ category: Main Story
 draft: false
 ---
 ## Chapter 1
-::: warning
+:::warning
 This was made as a way to read-along with the story in the game, which will give the full experience. 
 :::
