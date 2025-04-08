@@ -9,5 +9,7 @@ draft: false
 ---
 ## Chapter 1
 :::warning
-This was made as a way to read-along with the story in the game, which will give the full experience. 
+This was made as a way to read-along with the story in the game, which will give the full experience. If possible, please play on the app to support the original creators.
 :::
+
+<img>./logicon_yumehisa_b.png</img>
