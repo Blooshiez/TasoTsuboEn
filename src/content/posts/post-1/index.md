@@ -12,4 +12,4 @@ draft: false
 This was made as a way to read-along with the story in the game, which will give the full experience. If possible, please play on the app to support the original creators.
 :::
 
-<img src= "logicon_yumehisa_b.png"/>
+<img src= "Blooshiez/TasoTsuboEn/src/content/posts/post-1/logicon_yumehisa_b.png"/>
