@@ -14,7 +14,6 @@ This was made as a way to read-along with the story in the game, which will give
 
 <img src= "/TasoTsuboEn/src/content/posts/post-1/logicon_yumehisa_b.png"/>
 
-<html>
 <head>
 <title>Font Awesome Icons</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,4 +36,3 @@ This was made as a way to read-along with the story in the game, which will give
 <i class="fas fa-clock" style="font-size:60px;color:lightblue;text-shadow:2px 2px 4px #000000;"></i>
 
 </body>
-</html>
